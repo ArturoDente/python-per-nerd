@@ -3,6 +3,16 @@
 **Autore:** Francesco Clementoni  
 **Licenza Codice:** MIT  
 
+[![Disponibile su Amazon Kindle](https://img.shields.io/badge/Amazon_Kindle-Disponibile_Ora-FF9900?style=for-the-badge&logo=amazon)](https://www.amazon.it/dp/B0HMK4XB9D)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Zero External Dependencies](https://img.shields.io/badge/Dependencies-Standard_Library_Only-success?style=for-the-badge)]()
+
+---
+
+> 📖 **Cerchi la trattazione teorica e didattica completa?**  
+> Il libro ufficiale **"Python per Nerds"** con la spiegazione riga per riga di ogni algoritmo, i diagrammi architetturali e i fondamenti matematici è disponibile su Amazon:  
+> 👉 **[Acquista l'eBook su Amazon Kindle (o leggi con Kindle Unlimited)](https://www.amazon.it/dp/B0HMK4XB9D)**
+
 ---
 
 Questo repository contiene il **codice sorgente completo e funzionante** dei 7 progetti sviluppati nel libro **"Python per Nerds"**.
@@ -49,14 +59,17 @@ python3 pyrogue/main.py
 
 ## 📖 Il Libro Completo
 
-Questo repository include il codice sorgente pronto all'uso. Il libro completo **"Python per Nerds"** offre:
+Questo repository include il codice sorgente pronto all'uso. Il libro completo **"Python per Nerds"** è disponibile su Amazon:  
+👉 **[Acquista "Python per Nerds" su Amazon (Kindle / Kindle Unlimited)](https://www.amazon.it/dp/B0HMK4XB9D)**
+
+Nel volume troverai:
 - Trattazione teorica e retrocomputing (la nascita dei particle systems, la demoscene, la storia di Rogue, l'invenzione di Curses);
 - Spiegazione didattica riga per riga di ogni algoritmo e scelta architetturale;
 - Formule fisiche e matematiche (cinematica, trigonometria, FFT, raycasting su griglia);
 - Diagrammi architetturali e schemi di sequenza del Game Loop;
 - Esercizi guidati di espansione per ogni progetto.
 
-Disponibile nei formati **EPUB** (ottimizzato per e-reader) e **PDF** (impaginazione editoriale ad alta risoluzione con Typst).
+Disponibile in formato **eBook Kindle** (incluso con Kindle Unlimited) e **cartaceo**.
 
 ---
 
