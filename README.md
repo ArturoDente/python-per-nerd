@@ -3,15 +3,20 @@
 **Autore:** Francesco Clementoni  
 **Licenza Codice:** MIT  
 
-[![Disponibile su Amazon Kindle](https://img.shields.io/badge/Amazon_Kindle-Disponibile_Ora-FF9900?style=for-the-badge&logo=amazon)](https://www.amazon.it/dp/B0HMK4XB9D)
+[![Disponibile su Amazon](https://img.shields.io/badge/Amazon-Disponibile_Ora-FF9900?style=for-the-badge&logo=amazon)](https://amzn.eu/d/0eBQKhIA)
+[![Estratto Gratuito PDF](https://img.shields.io/badge/Estratto_Gratuito-Scarica_PDF-2ECC71?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./estratto/Python_per_Nerds_Estratto_Gratuito.pdf)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Zero External Dependencies](https://img.shields.io/badge/Dependencies-Standard_Library_Only-success?style=for-the-badge)]()
 
 ---
 
-> 📖 **Cerchi la trattazione teorica e didattica completa?**  
-> Il libro ufficiale **"Python per Nerds"** con la spiegazione riga per riga di ogni algoritmo, i diagrammi architetturali e i fondamenti matematici è disponibile su Amazon:  
-> 👉 **[Acquista l'eBook su Amazon Kindle (o leggi con Kindle Unlimited)](https://www.amazon.it/dp/B0HMK4XB9D)**
+> 🎁 **Vuoi leggere un'anteprima gratuita prima di acquistare?**  
+> Scarica l'**Estratto Gratuito in PDF (Introduzione + Capitolo 0)** direttamente da questo repository:  
+> 👉 **[Scarica l'Estratto Gratuito (`estratto/Python_per_Nerds_Estratto_Gratuito.pdf`)](./estratto/Python_per_Nerds_Estratto_Gratuito.pdf)**
+>
+> 📖 **Cerchi il libro completo?**  
+> Il volume ufficiale **"Python per Nerds"** (in formato **Cartaceo** ed **eBook Kindle / Kindle Unlimited**) con la spiegazione riga per riga di ogni algoritmo, gli aneddoti storici e i fondamenti matematici è disponibile su Amazon:  
+> 👉 **[Acquista il libro completo su Amazon: https://amzn.eu/d/0eBQKhIA](https://amzn.eu/d/0eBQKhIA)**
 
 ---
 
@@ -59,8 +64,8 @@ python3 pyrogue/main.py
 
 ## 📖 Il Libro Completo
 
-Questo repository include il codice sorgente pronto all'uso. Il libro completo **"Python per Nerds"** è disponibile su Amazon:  
-👉 **[Acquista "Python per Nerds" su Amazon (Kindle / Kindle Unlimited)](https://www.amazon.it/dp/B0HMK4XB9D)**
+Questo repository include il codice sorgente pronto all'uso e l'[**Estratto Gratuito in PDF**](./estratto/Python_per_Nerds_Estratto_Gratuito.pdf). Il libro completo **"Python per Nerds"** è disponibile su Amazon:  
+👉 **[Acquista "Python per Nerds" su Amazon (Cartaceo / Kindle / Kindle Unlimited)](https://amzn.eu/d/0eBQKhIA)**
 
 Nel volume troverai:
 - Trattazione teorica e retrocomputing (la nascita dei particle systems, la demoscene, la storia di Rogue, l'invenzione di Curses);

@@ -3,14 +3,24 @@
 # ==============================================================================
 *.epub
 *.pdf
+!estratto/
+!estratto/*.pdf
+!estratto/README.md
 Python_per_Nerds.md
 cover.png
 cover.svg
 cover*.jpg
 oldcover.*
 assets/cover.*
+esempio_slide.jpg
 videopromo/
 **/videopromo/
+videopromo_definitivo/
+**/videopromo_definitivo/
+videopromo_backup*/
+**/videopromo_backup*/
+marketing_social/
+**/marketing_social/
 
 # ==============================================================================
 # Testi dei Capitoli e Manoscritto del Libro
